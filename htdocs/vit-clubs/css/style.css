@@ -1,0 +1,15 @@
+/* video bg  */
+
+video {
+z-index: -1;
+height: 100vh;
+object-fit: cover;
+}
+
+/* Selectors  */
+
+.card:hover {
+transform: scale(1.05);
+transition: 0.3s;
+color: blue;
+}
