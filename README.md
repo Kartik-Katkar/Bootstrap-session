@@ -254,5 +254,3 @@ Bootstrap uses a **12‑column grid** powered by Flexbox.
  **Learn concepts, not just classes.**
 
 ---
-
-### ⭐ If you found this useful, star the repo and keep building!
